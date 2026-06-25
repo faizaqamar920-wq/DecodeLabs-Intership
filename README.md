@@ -14,7 +14,14 @@ safety metrics.
 To implement a operational symmetric encryption and decryption pipeline to safe-keep text data during transmission.
 # ️ Implemented Requirements:
 **Format Preservation:** Keeps formatting, text spaces, and non-alphabetic punctuation symbols completely intact throughout execution loops.
-* **Output Stream:** Sequentially displays both the transformed encrypted text and the restored original text directly within the terminal workspace.
+**Output Stream:** Sequentially displays both the transformed encrypted text and the restored original text directly within the terminal workspace.
+ ## project 3: Phishing Awareness Analyszer
+An interactive terminal dashboard simulation desgined to train members of an orgainization on spotting social engineering strategies, and malicious domain tricks.
+#Identified Threat vector indicators:
+1:Looklike Domain
+2: subdomain Masking
+3:psychological Triggers
+
 
 
 
